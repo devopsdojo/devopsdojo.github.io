@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://devopsdojo.io
+title: DevOps Dojo
+subtitle: Get your DevOps-fu on
+author: Chris Ng
 simple_search: https://www.google.com/search
 description:
 
