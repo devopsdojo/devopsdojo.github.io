@@ -1,0 +1,3 @@
+[submodule ".themes/octofound"]
+	path = .themes/octofound
+	url = git@github.com:annejohnson/octofound.git
