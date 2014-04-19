@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/blog/archives/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/blog/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/no-sidebar/example-formatting/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/no-sidebar/example-formatting/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/no-sidebar/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/no-sidebar/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/no-sidebar/left-sidebar/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/no-sidebar/left-sidebar/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/no-sidebar/right-sidebar/</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/no-sidebar/right-sidebar/</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
-        <lastmod>2014-04-15T23:48:15-07:00</lastmod>
+        <loc>http://devopsdojo.github.io/robots.txt</loc>
+        <lastmod>2014-04-18T17:18:57-07:00</lastmod>
     </url>
 </urlset>
