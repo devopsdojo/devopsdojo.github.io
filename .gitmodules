@@ -1,6 +1,6 @@
 [submodule ".themes/octofound"]
 	path = .themes/octofound
-	url = git@github.com:annejohnson/octofound.git
+	url = https://github.com/annejohnson/octofound.git
 [submodule ".themes/darkstripes"]
 	path = .themes/darkstripes
-	url = git://github.com/amelandri/darkstripes.git
+	url = https://github.com/amelandri/darkstripes.git
